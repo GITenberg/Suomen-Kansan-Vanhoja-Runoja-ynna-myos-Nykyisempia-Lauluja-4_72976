@@ -1,0 +1,37 @@
+_repo: Suomen-Kansan-Vanhoja-Runoja-ynna-myos-Nykyisempia-Lauluja-4_72976
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Zachris
+    - Topelius, Zakarias
+    - Topelius, Zakris
+    - Topelius, Sakarias
+    - senior, Zacharias Topelius
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Zacharias_Topelius
+    - https://en.wikipedia.org/wiki/Zachris_Topelius
+    - https://fi.wikipedia.org/wiki/Zacharias_Topelius
+description: ''
+gutenberg_issued: '2024-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72976'
+language: fi
+pgterms:marc905: 20240214000954topeliusse
+pgterms:marc906: '1829'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bJ. Simeliuksen leski, $c1829.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Suomen Kansan Vanhoja Runoja ynnä myös Nykyisempiä Lauluja 4
+url: http://www.gutenberg.org/ebooks/72976
