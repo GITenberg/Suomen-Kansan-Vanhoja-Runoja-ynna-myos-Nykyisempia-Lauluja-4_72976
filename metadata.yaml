@@ -17,7 +17,12 @@ contributor:
     - https://sv.wikipedia.org/wiki/Zacharias_Topelius
     - https://en.wikipedia.org/wiki/Zachris_Topelius
     - https://fi.wikipedia.org/wiki/Zacharias_Topelius
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72976#Suomen-Kansan-Vanhoja-Runoja-ynna-myos-Nykyisempia-Lauluja-4
 gutenberg_issued: '2024-02-16'
 gutenberg_type: Text
 identifiers:
